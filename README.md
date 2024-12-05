@@ -26,10 +26,6 @@ Welcome to **StyleHub**, a cutting-edge project that explores the application of
 
 ### Prerequisites  
 - Python 3.12 or higher.  
-- Install the required dependencies using the following command:  
-  ```bash
-  pip install -r requirements.txt
-  ```  
 
 ### Setup Instructions  
 1. **Clone the repository**:  
